@@ -11,9 +11,15 @@ Note that the 'b' and 'w' values in race are assigned randomly to the resumes wh
 
 # Exercises
 You will perform a statistical analysis to establish whether race has a significant impact on the rate of callbacks for resumes.
+
 Answer the following questions in this notebook below and submit to your Github account.
+
 What test is appropriate for this problem? Does CLT apply?
+
 What are the null and alternate hypotheses?
+
 Compute margin of error, confidence interval, and p-value.
+
 Write a story describing the statistical significance in the context or the original problem.
+
 Does your analysis mean that race/name is the most important factor in callback success? Why or why not? If not, how would you amend your analysis?
